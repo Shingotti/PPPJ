@@ -71,7 +71,7 @@
             └── yyyymmdd_minutes.md
     ```
   - 記載方針  
-    議事録の、template.mdを活用すること  
+    議事録はtemplate.mdを活用すること  
     また、テンプレートにない項目でも、必要に応じ追加すること  
   - 書記  
     書記については、運用メンバーの持ち回りとする。  
@@ -143,7 +143,7 @@ flowchart TD
     subgraph HQ-classification[運営メンバー]
       HQ-Member1[パプ]
       HQ-Member2[Aki]
-      HQ-Member3[nakata]
+      HQ-Member3[nakata/サポート]
     end
   end
 
